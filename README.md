@@ -2,8 +2,8 @@
 
 Projeto final da disciplina de sistemas digitais III do curso técnico em eletrônica do CEFET-MG feito em um grupo de 2 estudantes.
 
-Um dos meus primeiros projetos que fiz utilizando programação. O código não está bem escrito, estávamos aprendendo ainda, algumas soluções para determinados 
-problemas são bem ruins, porém, decidi colocá-lo no github para ter como recordação e para, talvez, ajudar alguém que esteja fazendo um projeto similar. 
+Um dos primeiros projetos que fiz utilizando programação. Algumas soluções para determinados 
+problemas não são as mais adequadas, porém, decidi colocá-lo no github para ter como recordação e para, talvez, ajudar alguém que esteja fazendo um projeto similar. 
 Apesar dos pesares, foi um projeto no qual nos dedicamos bastante, fizemos com bastante carinho e nos sentimos muito realizado ao vê-lo funcionando. 
 
 A ideia era montar um modelo de geladeira utilizando, ao invés de um compressor, uma simples placa peltier, pois, o intuito não era de fato ter algo para refrigerar 
